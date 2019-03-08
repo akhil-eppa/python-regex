@@ -4,6 +4,8 @@ Created on Mon Oct 29 19:44:20 2018
 
 @author: Akhil
 """
+
+#This is my first time with regular expressions in python
 import re
 '''
 phoneNumRegex=re.compile(r'\d\d\d-\d\d\d-\d\d\d\d')
